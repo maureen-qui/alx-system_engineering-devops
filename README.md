@@ -1,1 +1,1 @@
-Where am I?
+0x00 shell basics
